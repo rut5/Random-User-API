@@ -20,11 +20,14 @@
   },
   "homepage": "https://github.com/rut5/Random-User-API#readme",
   "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.3.3",
     "nodemon": "^3.1.14",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "zod": "^4.3.6"
   }
 }
